@@ -1,16 +1,16 @@
 {
   "Todo": {
-    "userId": "integer"
-    "id": "integer"
+    "userId": "int"
+    "id": "int"
     "title": "string"
   },
   "Post": {
-    "userId": "integer"
-    "id": "integer"
+    "userId": "int"
+    "id": "int"
     "title": "string"
   },
   "User": {
-	  "id": "int"
+    "id": "int"
     "name": "string"
     "username": "string"
     "email": "string"
@@ -18,8 +18,8 @@
     "website": "string"
   },
   "Album": {
-    "userId": "integer"
-    "id": "integer"
+    "userId": "int"
+    "id": "int"
     "title": "string"
   }
 }
