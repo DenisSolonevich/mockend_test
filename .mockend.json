@@ -1,25 +1,25 @@
 {
   "Todo": {
-    "userId": "int"
-    "id": "int"
+    "userId": "int",
+    "id": "int",
     "title": "string"
   },
   "Post": {
-    "userId": "int"
-    "id": "int"
+    "userId": "int",
+    "id": "int",
     "title": "string"
   },
   "User": {
-    "id": "int"
-    "name": "string"
-    "username": "string"
-    "email": "string"
-    "phone": "string"
+	  "id": "int",
+    "name": "string",
+    "username": "string",
+    "email": "string",
+    "phone": "string",
     "website": "string"
   },
   "Album": {
-    "userId": "int"
-    "id": "int"
+    "userId": "int",
+    "id": "int",
     "title": "string"
   }
 }
